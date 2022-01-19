@@ -1,0 +1,22 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(136,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(151,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(161,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(171,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(181,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(191,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(201,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(211,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(222,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(229,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\src\ofApp.cpp(241,27): warning C4018: '<': signed/unsigned mismatch
+  myApps.vcxproj -> C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\bin\myApps_debug.exe
+  
+  	                   2	C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\bin\FreeImage.dll
+  
+  	                   1	C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\bin\fmod.dll
+  	  *EXTRA File 		 1733120	C:\Users\Asus\Downloads\of_v0.11.2_vs2017_release\apps\myApps\myApps\myApps\bin\fmodL.dll
